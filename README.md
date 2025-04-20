@@ -94,9 +94,6 @@ The website is fully responsive. On mobile devices, the layout adjusts for bette
 4. Push to the branch (`git push origin feature-name`).
 5. Create a new pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
